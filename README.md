@@ -1,8 +1,17 @@
-# Getting Started with Create React App
+# Gallery React App with Api Node
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Web application of an image gallery where you can see all the images, add images and delete images (CRUD IMAGES).
 
-## Available Scripts
+The repository contains for the frontend the application developed in REACT and for the backend an API developed in NODE.
+
+Project with React and Node.
+
+- Language [Javascripts]
+- Database [MongoDB]
+- React.js
+- Node.js 
+
+## Available Scripts for React
 
 In the project directory, you can run:
 
@@ -39,32 +48,41 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
+## Available Scripts for Server
+
+In the project directory, you can run:
+
+### `npm server:dev`
+
+Runs the app in the development mode.\
+Open [http://localhost:4000](http://localhost:4000) to make requests.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+
+### `npm run server:build`
+
+Builds the server for production to the `server:build`
+It correctly bundles in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your server is ready to be deployed!
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## License
+Not defined.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Author
+Jonathan Sanchez Rodriguez - jsanchez.dev1991@gmail.com
 
-### Analyzing the Bundle Size
+## Screenshot
+[![screenshot-1](https://github.com/jonsanchezr/react-gallery-app/z-screenshot/screenshot-1-gallery.png "screenshot-1")](https://github.com/jonsanchezr/react-gallery-app/z-screenshot/screenshot-1-gallery.png "screenshot-1")
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+[![screenshot-2](https://github.com/jonsanchezr/react-gallery-app/z-screenshot/screenshot-2-upload.png "screenshot-2")](https://github.com/jonsanchezr/react-gallery-app/z-screenshot/screenshot-2-upload.png "screenshot-2")
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[![screenshot-3](https://github.com/jonsanchezr/react-gallery-app/z-screenshot/screenshot-3-detail.png "screenshot-3")](https://github.com/jonsanchezr/react-gallery-app/z-screenshot/screenshot-3-detail.png "screenshot-3")
