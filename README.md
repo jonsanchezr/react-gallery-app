@@ -81,8 +81,8 @@ Not defined.
 Jonathan Sanchez Rodriguez - jsanchez.dev1991@gmail.com
 
 ## Screenshot
-[![screenshot-1](https://github.com/jonsanchezr/react-gallery-app/z-screenshot/screenshot-1-gallery.png "screenshot-1")](https://github.com/jonsanchezr/react-gallery-app/z-screenshot/screenshot-1-gallery.png "screenshot-1")
+[![screenshot-1](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-1-gallery.png "screenshot-1")](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-1-gallery.png "screenshot-1")
 
-[![screenshot-2](https://github.com/jonsanchezr/react-gallery-app/z-screenshot/screenshot-2-upload.png "screenshot-2")](https://github.com/jonsanchezr/react-gallery-app/z-screenshot/screenshot-2-upload.png "screenshot-2")
+[![screenshot-2](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-2-upload.png "screenshot-2")](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-2-upload.png "screenshot-2")
 
-[![screenshot-3](https://github.com/jonsanchezr/react-gallery-app/z-screenshot/screenshot-3-detail.png "screenshot-3")](https://github.com/jonsanchezr/react-gallery-app/z-screenshot/screenshot-3-detail.png "screenshot-3")
+[![screenshot-3](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-3-detail.png "screenshot-3")](https://raw.githubusercontent.com/jonsanchezr/react-gallery-app/main/z-screenshot/screenshot-3-detail.png "screenshot-3")
